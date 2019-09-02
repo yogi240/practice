@@ -1,0 +1,128 @@
+.button2 {
+ background-color: #6FB048;
+width: 200px;
+height: 40px;
+color: white;
+font-size: 15px;
+}
+
+/* section-1 */
+
+#sec-1 {
+  background: url(banner-bg.jpg);
+  height: 550px;
+  color: white;
+  width: 1260px;
+
+}
+.wapik {
+position: absolute;
+top: 20px;
+}
+
+a{
+  margin: 15px;
+}
+.heading1 {
+  margin-left: 20px;
+}
+.heading2 {
+  float: right;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+.paragraph1{
+  font-size: 40px;
+  width:600px;
+  text-align: celistnter;
+  margin-left: 300px;
+  margin-top: 200px;
+
+}
+.button {
+  margin-left: 500px;
+
+}
+.list{
+  position: absolute;
+}
+
+
+/* section-2 */
+
+#sec-2{
+  text-align: center;
+    width: 1260px;
+}
+
+.content{
+  color: #83A7A5;
+}
+.Duis {
+  width: 750px;
+  /* position: relative; */
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.about{
+  margin-top: 50px;
+  font-size: 25px;
+}
+.row {
+  margin-top: 30px;
+}
+
+
+/* section-3 */
+
+#sec-3 {
+  text-align: center;
+  margin-top: 20px;
+  background-color: #c6f1d6;
+  width: 1260px;
+
+}
+.name {
+  color: #0F5F5C;
+}
+.name1 {
+  color:#83A7A5;
+}
+.img3 {
+  width: 300px;
+
+}
+.meet {
+  font-size: 25px;
+  margin-left: 500px;
+}
+.para-sec3{
+  width: 600px;
+  margin-left: 300px;
+}
+.left-img{
+  margin-left: 30px;
+}
+.joyce{
+  margin-left: 30px;
+
+}
+.founder{
+  margin-left: 30px;
+
+}
+
+/* media query */
+
+@media (max-width:767px;) {
+  .img1{
+    order: 1;
+  }
+  .img2{
+    order: 1;
+  }
+  .img3{
+    order: 1;
+  }
+}
